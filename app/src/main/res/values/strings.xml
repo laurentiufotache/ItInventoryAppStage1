@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">It Inventory App S1</string>
+    <string name="empty_field_error">This field cannot be empty! Enter a value, please!</string>
+    <string name="phone_number_error">This field must have 10 digits!</string>
+    <string name="enter_the_it_product_name">Enter the IT product name</string>
+    <string name="enter_the_price_for_the_it_product">Enter the price for the IT product</string>
+    <string name="enter_the_quantity_for_the_it_product">Enter the quantity for the IT product</string>
+    <string name="enter_the_supplier_name">Enter the supplier name</string>
+    <string name="enter_the_supplier_phone_number">Enter the supplier phone number</string>
+    <string name="save">SAVE</string>
+    <string name="cannot_be_empty">field cannot be empty!</string>
+    <string name="save_error">Error with saving IT Product</string>
+    <string name="added_msg">IT Product successfully added!</string>
+    <string name="row_id">saved with row id:</string>
+    <string name="add_new_it_product">Add new IT Product</string>
+    <string name="phone_error">must have 10 digits!</string>
+</resources>
